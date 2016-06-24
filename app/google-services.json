@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "672181821727",
+    "firebase_url": "https://fir-starter-56500.firebaseio.com",
+    "project_id": "fir-starter-56500",
+    "storage_bucket": "fir-starter-56500.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672181821727:android:b6a939bdd2fa00e5",
+        "android_client_info": {
+          "package_name": "com.tutorials.hp.firebasestarter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672181821727-0v0mh3c9v1mguqano82bgj6t4ek7eaus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2WeX_egIfF1-a4tlGzh1ULqbyUCBnPj0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
